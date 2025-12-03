@@ -1,6 +1,6 @@
 import fitz
 
-pdf = fitz.open("Train to Pakistan PDF.pdf")
+pdf = fitz.open("sample_table_20rows.pdf")
 
 text = ""
 for page in pdf:
