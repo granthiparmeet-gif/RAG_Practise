@@ -1,0 +1,7 @@
+Employee Onboarding Document
+Welcome to the company!
+Please follow the steps below to complete your onboarding:
+1. Setup your email account
+2. Connect to the VPN
+3. Read the employee handbook
+4. Meet your team lead
